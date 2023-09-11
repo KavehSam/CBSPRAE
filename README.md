@@ -1,10 +1,10 @@
 
 # Cascaded Spline Projection Residual Auto Encoders
 
-[[Paper]](https://cinc.org/2022/Program/accepted/49_Preprint.pdf) [[Colab notebook]]()
+[[Paper]](https://cinc.org/2023/Program/accepted/227.html) [[Colab notebook]]()
 
 
-A PyTorch package for compression and non-orthogonal decomposition of biomedical signals using Cascaded B-Spline Projection Residual Auto Encoders.
+A PyTorch package for compression and non-orthogonal decomposition of biomedical signals using Cascaded B-Spline Projection Residual Auto Encoders. This work will be presented at Computing in Cardiology 2023.
 
 > Under Construction :construction:
 
